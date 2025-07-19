@@ -1,5 +1,9 @@
 # **Abstracts**
 
+
+Over the past few years I have been actively involved in the academic research, regularly participating in international scientific conferences as a lecturer. I have presented the following working papers on the corresponding conferences:
+
+
 ### Strict complementarity of Mises’ and Hayek’s arguments in the economic calculation debate
 
 <i>Presented on the 7th Austrian Economics Meeting Europe in May 2023</i>
